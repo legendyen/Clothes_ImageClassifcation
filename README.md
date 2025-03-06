@@ -20,13 +20,15 @@ Our evaluation is based on the accuracy and loss metrics to assess the performan
 
 
 Showcaisng training data
-<img width="1456" alt="image" src="https://github.com/legendyen/SungJen_AI-DeepLearning_Projects/assets/20420765/7cd437d2-494d-4aad-86de-9131092a57a9">
+![image](https://github.com/user-attachments/assets/61a1280d-d76f-4b8b-aa0c-a632afbe02e1)
+
 
 Shocasing model prediction label
-<img width="1064" alt="image" src="https://github.com/legendyen/SungJen_AI-DeepLearning_Projects/assets/20420765/9a2e9dda-9780-4e9b-b0ee-f270db1743fb">
+![image](https://github.com/user-attachments/assets/18f1c726-0c36-4671-bb09-954f54c7e454)
+
 
 Shocasing evaluation metrix (from initial to final)
+![image](https://github.com/user-attachments/assets/046e7d55-6137-430c-8701-83f958076a10)
 
-<img width="482" alt="image" src="https://github.com/legendyen/SungJen_AI-DeepLearning_Projects/assets/20420765/386826be-712b-4ddb-a9ec-db04b1f4a7b5">
 
 
